@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  color: aqua;
+}
+
+h3{
+  text-align: center;
+  color: aqua;
+}
+.mascota{
+  text-align: center;
+  color: rgb(7, 255, 147);
+}
+.edadPerro{
+  text-align: center;
+  color: rgb(246, 17, 204);
+}
+.hhh{
+  text-align: center;
+  color: rgb(248, 216, 5);
 }
 
 .App-logo {
